@@ -1,0 +1,1 @@
+py train.py --img 640 --batch 1 --data train_data/dataset.yaml --weights yolov5s.pt --workers 1 --project runs --exist-ok --name exp_crop
